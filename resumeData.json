@@ -1,0 +1,137 @@
+{
+  "main": {
+    "name": "Urjit Desai",
+    "occupation": "I am a Software Engineer interested in using modern technology to make our lives easier. Love facing new challenges and solving new problems. I believe a Software Engineer is a student for life and so am I. There is certainly yet more to learn, yet more problems to solve, yet more to build. And, I look forward to it.",
+    "description": "Currently looking for Summer 2022 SWE Internships",
+    "image": "urjit.jpg",
+    "bio": "Hi, looks like I seem to be of interest to you! I am a Software Developer with background in Web Development and Machine Learning. My inclination towards using modern technology to solve the challenging real world problems has led to me to pursue my master's in computer science.    My first professional project stemmed out of the need to process structured and unstructured invoices. I was given the opportunity to develop a platform which allows users to annotate and process invoices, build Machine Learning models based on these invoices, test the models on new data and provide facility for error correction. Seeing my work save 75% of the time required otherwise has further motivated me to use my skills to solve real problems. Said that, I am looking for summer 2022 internship opportunities in companies that share my passion.    There is certainly yet more to learn, yet more problems to solve, yet more to build. And, I look forward to it.",
+    
+    "contactmessage": "Get in touch with me.",
+    "email": "urjitdesai1998@gmail.com",
+    "phone": "+1 9083923044",
+    "address": {
+      "street": "",
+      "city": "Los Angeles",
+      "state": "California",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload1": "https://drive.google.com/uc?id=1LphPXW4t-BgbTx8yKYl_GPVM1NqcIJ31&export=download",
+    "resumedownload": "https://drive.google.com/file/d/1s0D0lbfrGowlHdkIJz_6yRrak6ub88tI/view?usp=sharing",
+    "social": [
+      
+      {
+        "name": "linkedin",
+        "url": "http://www.linkedin.com/in/urjit-desai",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/urjitdesai",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "University of Southern California",
+        "degree": "Master of Science in Computer Science",
+        "graduated": "May 2023",
+        "description": "CSCI 570: Analysis of Algorithms, CSCI 585: Database Systems"
+      },
+      {
+        "school": "Mumbai University, St. Francis Institute of Technology",
+        "degree": "Bachelor of Engineering in Computer Engineering",
+        "graduated": "Oct 2020",
+        "description": "CGPA: 9.24/10",
+        "description2": "Courses: Algorithms, Data Structures, Machine Learning, Database Management Systems, Object Oriented Programming (OOP), Software Engineering, Web Technologies, Operating Systems, Artificial Intelligence, Distributed Systems, Computer Networks"
+      }
+    ],
+    "work": [
+      {
+        "company": "Quantiphi",
+        "title": "Software Engineer",
+        "years": "Oct 2020 - July 2021",
+        "tech": "JavaScript, Python, React, Node, Express, Flask, MongoDB, HTML, CSS, AWS(S3, EC2, Lambdas, DynamoDB, Cognito, Sagemaker)",
+        "description": "Developed a platform with the following modules:\r1. An invoice processing module that allows users to upload and annotate documents for key-value pairs using React, JavaScript, HTML, CSS, Material UI.\n 2. A training pipeline which allows users to highlight the details in documents which serve as feature vectors for using the documents to train a Machine Learning Model.\n 3. A module which allows users to build, monitor and manage ML models and all its details such as: epochs, hyperparameters, training & testing status, ETA. \n 4. A testing module which allows users to test new documents on the existing ML models along with implementing human in the loop feature for error correction and model optimization.\nDeveloped backend modules in Node.js and Flask and integrated it with the front-end and AWS."
+      },
+      {
+        "company": "Revitech Infosolutions",
+        "title": "Software Engineer Intern",
+        "years": "March 2019 - Sept 2019",
+        "tech": "JavaScript, Python, React, Node, Express, Flask, MongoDB, HTML, CSS",
+        "description": "Collaborated with a team of 4 members to build a platform to automate the process of data wrangling, exploratory data analysis, building predictive models, testing and analyzing the results of these models. Provided suggestions on the UI regarding which ML models to use by analyzing the quality and quantity of the dataset. The platform reduced the time taken by the entire process by 70%; moreover, allowing people with a non-technical background to build and analyze data and models quickly and efficiently."
+      },
+      {
+        "company": "M-Intellect",
+        "title": "Android Developer Intern",
+        "years": "May 2018 - June 2018",
+        "tech": "Android Studio, Google Maps API, Java, MySQL",
+        "description": "Worked in a team of 3 to develop a module in a parking app which allows users to locate, reserve and pay for parking spots."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs, Python, Java, Machine Learning",
+        "level": "85%"
+      },
+      {
+        "name": "HTML5, CSS, NodeJs, SQL",
+        "level": "75%"
+      },
+      {
+        "name": "Mongo DB ",
+        "level": "70%"
+      }
+      
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Proshop",
+        "category": "A full stack e-commerce web application built using React, Node, Redux, MongoDB, Express, JavaScript, HTML, CSS",
+        "image": "proshop.jpg",
+        "url": "https://proshop-urjit.herokuapp.com/"
+      },
+      {
+        "title": "Thoughts",
+        "category": "A full stack social media web application similar to Twitter",
+        "image": "thoughts.jpg",
+        "url": "https://social-media-app-3db1f.web.app/"
+      },
+      {
+        "title": "Hotel Reservation Site",
+        "category": "As the name suggests...",
+        "image": "hotel.jpg",
+        "url": "https://urjitdesai.github.io/hotel/"
+      },
+      {
+        "title": "Driver Drowsiness Detection",
+        "category": "Used ML to prdict the state of the driver and raise an alarm if found to be drowsy/distracted.",
+        "image": "ddd.jpg",
+        "url": "https://github.com/urjitdesai/Driver-Drowsiness-Detection/blob/master/DDD-%20Black%20Book.pdf"
+      },
+      {
+        "title": "Road sign classification",
+        "category": "Used CNN to classify german road signs.",
+        "image": "traffic.jpg",
+        "url": "https://github.com/urjitdesai/Driver-Drowsiness-Detection/blob/master/DDD-%20Black%20Book.pdf"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
